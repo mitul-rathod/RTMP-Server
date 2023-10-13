@@ -1,4 +1,4 @@
-## How to run
+## How to run ##
 
 1. Install Docker
 2. `docker-compose build`
